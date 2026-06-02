@@ -1,1 +1,6 @@
+#!/usr/bin/bash
 
+while true; do
+    python3 $PYFILE
+    sleep 5
+done
