@@ -1,2 +1,2 @@
-# higher_level_programming
-Daily tasks in Python
+# Python fundamentals
+Data structures, exercises with test-driven solutions
